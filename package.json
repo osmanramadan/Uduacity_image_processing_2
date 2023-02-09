@@ -40,7 +40,8 @@
     },
     "dependencies": {
         "express": "^4.17.1",
-        "sharp": "^0.31.3"
+        "sharp": "^0.31.3",
+        "supertest": "^6.3.3"
     },
     "exclude": [
         "node_modules"
