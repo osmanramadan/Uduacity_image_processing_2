@@ -23,11 +23,11 @@ Will display and list available image names
   - icelandwaterfall
   - palmtunnel
   - santamonica
-# Example 2
+## Example 2
 http://localhost:3000/api/images?filename=fjord
 Will ask you to give parameters
 
-# Example 3
+## Example 3
 http://localhost:3000/api/images?filename=fjord&width=200&height=200
 
 will resize image make width =>200 px , height =>200 px
