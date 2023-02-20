@@ -31,6 +31,6 @@ Will ask you to give parameters
 http://localhost:3000/api/images?filename=fjord&width=200&height=200
 
 will resize image make width =>200 px , height =>200 px
-and save image in __direname/images/thumb/
+and save image in __direname/images/thumb
 
 
